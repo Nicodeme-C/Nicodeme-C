@@ -56,7 +56,7 @@ Suite à ce projet , je commence à apprendre les bases du Javascript.
 
 ### 1er projet : Jeu de bulles
 
-[<img src="https://i.goopics.net/3v9ijv.png" alt="Bubbles-game" height="400">](https://nicodeme-c.github.io/bubbles-game/)
+[<img src="https://i.goopics.net/3v9ijv.png" alt="Bubbles-game" height="100%" width = "100%">](https://nicodeme-c.github.io/bubbles-game/)
 
 Pour mon premier projet, j'ai crée un jeu d'éclatement de bulles. 
 
