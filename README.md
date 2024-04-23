@@ -28,7 +28,7 @@ Ce portfolio a pour but de présenter mes compétences et mes projets réalisés
 
 ### 1ère maquette : Course à pied 🏃‍♂️
 
-[<img src="https://i.goopics.net/7hggo3.jpg"  alt="Screenshot Projet 1" height="300">](https://nicodeme-c.github.io/projet-run/)
+[<img src="https://i.goopics.net/7hggo3.jpg"  alt="Maquette_1" height="300">](https://nicodeme-c.github.io/projet-run/)
 
 Voici mon premier projet que j'ai réalisé en me basant sur une maquette. Il s'agit d'une page d'accueil pour un site de course à pied. J'ai utilisé pour ce projet, le HTML et le CSS pour reproduire fidèlement le design et la mise en page de la maquette. Ce projet m'a permis de mettre en pratique les notions de base du développement web, comme les balises HTML, les sélecteurs CSS, le positionnement des éléments, les médias queries...
 
@@ -36,7 +36,7 @@ Voici mon premier projet que j'ai réalisé en me basant sur une maquette. Il s'
 
 ### 2eme maquette : La montagne ⛰️
 
-[<img src="https://i.goopics.net/cke1sm.jpg" alt="Screenshot Projet 2" height="400">](https://nicodeme-c.github.io/projet-sass1/)
+[<img src="https://i.goopics.net/cke1sm.jpg" alt="Maquette_2" height="400">](https://nicodeme-c.github.io/projet-sass1/)
 
 Ceci est le second projet , toujours basé sur une maquette. Il s'agit d'une page d'accueil concernant la montagne. J'ai utilisé le HTML, le CSS et le SASS pour reproduire le design et la mise en page de la maquette. Ce projet m'a permis de découvrir le SASS. J'ai appris à utiliser les variables, les mixins...
 
@@ -44,7 +44,7 @@ Ceci est le second projet , toujours basé sur une maquette. Il s'agit d'une pag
 
 ### 3eme maquette : Le restaurant gastronomique 🍽️
 
-[<img src="https://i.goopics.net/9uq7td.jpg" alt="Screenshot Projet 3" height="400">](https://nicodeme-c.github.io/resto/)
+[<img src="https://i.goopics.net/9uq7td.jpg" alt="Masquette_3" height="400">](https://nicodeme-c.github.io/resto/)
 
 Enfin le troisième projet réalisé, toujours en se basant sur une maquette. Il s'agit d'une première page d'un site vitrine pour un restaurant gastronomique. J'ai utilisé le HTML, le CSS et le SASS pour reproduire le design et la mise en page de la maquette. Ce projet plus complet et plus difficile que les deux premiers m'a permis d'approfondir mes connaissances avec les animations CSS, le GRID, le FLEX, les mixins , les variables, les transitions, les transformations, les keyframes...
 
@@ -55,6 +55,8 @@ Suite à ce projet , je commence à apprendre les bases du Javascript.
 ## Projets 💻
 
 ### 1er projet : Jeu de bulles
+
+[<img src="https://i.goopics.net/3v9ijv.png" alt="Bubbles-game" height="400">](https://nicodeme-c.github.io/bubbles-game/)
 
 Pour mon premier projet, j'ai plongé dans le monde du JavaScript en créant un jeu d'éclatement de bulles. 
 Cette expérience m'a permis de plonger au cœur du DOM et de maîtriser les interactions avec la souris. En me lançant dans ce projet, j'ai consolidé ma compréhension des concepts clés de la programmation tels que les variables, les fonctions, et les conditions. 
