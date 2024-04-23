@@ -58,7 +58,8 @@ Suite à ce projet , je commence à apprendre les bases du Javascript.
 
 [<img src="https://i.goopics.net/3v9ijv.png" alt="Bubbles-game" height="400">](https://nicodeme-c.github.io/bubbles-game/)
 
-Pour mon premier projet, j'ai plongé dans le monde du JavaScript en créant un jeu d'éclatement de bulles. 
+Pour mon premier projet, j'ai crée un jeu d'éclatement de bulles. 
+
 Cette expérience m'a permis de plonger au cœur du DOM et de maîtriser les interactions avec la souris. En me lançant dans ce projet, j'ai consolidé ma compréhension des concepts clés de la programmation tels que les variables, les fonctions, et les conditions. 
 De plus, j'ai pu manipuler directement les éléments HTML depuis JavaScript.
 
