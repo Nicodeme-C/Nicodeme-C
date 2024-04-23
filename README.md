@@ -54,7 +54,18 @@ Suite à ce projet , je commence à apprendre les bases du Javascript.
 
 ## Projets 💻
 
-Cette section s'enrichera de mes futurs projets en parallèle de mon apprentissage
+### 1er projet : Jeu de bulles
+
+Pour mon premier projet, j'ai plongé dans le monde du JavaScript en créant un jeu d'éclatement de bulles. 
+Cette expérience m'a permis de plonger au cœur du DOM et de maîtriser les interactions avec la souris. En me lançant dans ce projet, j'ai consolidé ma compréhension des concepts clés de la programmation tels que les variables, les fonctions, et les conditions. 
+De plus, j'ai pu manipuler directement les éléments HTML depuis JavaScript.
+
+L'intégration de Firebase à mon projet a ouvert de nouvelles perspectives, permettant la gestion des données en temps réel et la communication avec les utilisateurs. 
+Grâce aux retours de mon entourage, j'ai affiné mon code et ajouté les fonctionnalités demandées, ce qui m'a offert un réel défi et l'occasion de tester de nouvelles fonctionnalités.
+
+Au-delà de l'aspect technique, ce projet m'a offert une formidable opportunité de m'épanouir et de m'amuser en explorant les possibilités du développement web. Cette première expérience a confirmé mon intérêt pour le développement web/mobile, et je compte continuer à améliorer ce projet existant tout en me lançant dans de nouveaux défis au fur et à mesure de mon avancement.
+
+[Visiter le site](https://nicodeme-c.github.io/bubbles-game/) | [Voir le code](https://github.com/Nicodeme-C/Nicodeme-C.github.io/tree/main/bubbles-game)
 
 ## Réseaux sociaux 🌐
 
@@ -62,6 +73,7 @@ Vous pouvez me retrouver sur les réseaux sociaux suivants :
 
 - [LinkedIn](https://www.linkedin.com/in/nicodeme-c)
 - [GitHub](https://github.com/Nicodeme-C)
+- [Instagram](https://www.instagram.com/nicodeme_codedev/)
 
 ## Contact 📧
 
