@@ -23,6 +23,9 @@ Ce portfolio a pour but de présenter mes compétences et mes projets réalisés
 - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"> CSS
 - <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"> SASS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"> JAVASCRIPT
+- <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" alt="React"> REACT
+
+
 
 ## Réseaux sociaux 🌐
 
