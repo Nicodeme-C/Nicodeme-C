@@ -14,7 +14,7 @@ Actuellement, je travaille sur plusieurs projets en tant que freelance , comme l
 
 ## Présentation 🚀
 
-Ce portfolio ( aà venir)  met en avant mes compétences techniques et mes projets réalisés. Vous y trouverez des exemples concrets d’applications et d’interfaces que j’ai développées en utilisant des technologies modernes.
+Ce portfolio met en avant mes compétences techniques et mes projets réalisés ( à venir) . Vous y trouverez des exemples concrets d’applications et d’interfaces que j’ai développées en utilisant des technologies modernes.
 
 ---
 
@@ -34,17 +34,9 @@ Je continue à me former sur d'autres outils et frameworks pour élargir encore 
 
 ---
 
-## Réseaux sociaux 🌐
-
-Retrouvez-moi sur ces plateformes :
-
-- [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/nicodeme-c)
-- [![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub](https://github.com/Nicodeme-C)
-- [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png) Instagram](https://www.instagram.com/nicodeme_codedev/)
-
----
-
 ## Contact 📧
 
 Envoyez-moi un e-mail à [📧nicodeme.cajuste@etik.com](mailto:nicodeme.cajuste@etik.com) ou contactez-moi via :  
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/nicodeme-c) | [![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub](https://github.com/Nicodeme-C)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/nicodeme-c) 
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub](https://github.com/Nicodeme-C)
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png) Instagram](https://www.instagram.com/nicodeme_codedev/)
