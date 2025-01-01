@@ -38,5 +38,7 @@ Je continue à me former sur d'autres outils et frameworks pour élargir encore 
 
 Envoyez-moi un e-mail à [📧nicodeme.cajuste@etik.com](mailto:nicodeme.cajuste@etik.com) ou contactez-moi via :  
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/nicodeme-c) 
+
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub](https://github.com/Nicodeme-C)
+
 [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png) Instagram](https://www.instagram.com/nicodeme_codedev/)
