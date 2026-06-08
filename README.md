@@ -18,7 +18,7 @@
 ### Comment je travaille
 
 - **Forfait fixe.** Un devis détaillé, un périmètre clair. Vous savez ce que vous payez avant de démarrer.
-- **Couverture complète.** Je développe, je déploie, j'héberge et je maintiens. Là où beaucoup s'arrêtent au `git push`, je vais jusqu'à la production et au-delà.
+- **Couverture complète.** Je développe, je déploie et je maintiens. Là où beaucoup s'arrêtent au `git push`, je vais jusqu'à la production et au-delà.
 - **Code qui vous appartient.** Outils standards, documentés. Aucune dépendance qui vous enferme : un autre développeur peut reprendre la main quand il le souhaite.
 
 ### Stack
@@ -26,9 +26,9 @@
 **Front** TypeScript · React · Next.js · Tailwind CSS
 **Back & données** Node.js · PostgreSQL · MySQL · Supabase · PocketBase
 **Mobile** React Native · Capacitor
-**Infra** Docker · auto-hébergement (Debian, Cloudflare) ou votre hébergeur (OVH, Vercel, AWS)
+**Infra** Docker · déploiement sur votre hébergeur (OVH, Vercel, AWS…)
 
-Je gère ma propre infrastructure auto-hébergée, en Europe. Pour vous : des coûts maîtrisés, des données qui restent sur le continent, et personne d'autre à qui demander la permission. Si vous avez déjà un hébergeur, je m'y adapte.
+Je gère aussi ma propre infrastructure auto-hébergée (Debian, Docker, Cloudflare) pour mes produits maison. Pour vos projets, je m'adapte à votre hébergeur.
 
 ### Réalisations
 
