@@ -2,7 +2,7 @@
 
 **Développeur freelance, web et mobile.** Je conçois des applications métier sur mesure pour des PME, des TPE et des indépendants. Du premier échange à la maintenance, un seul interlocuteur.
 
-15 ans dans l'informatique m'ont appris une chose : un bon outil n'est pas celui qui a le plus de fonctions, c'est celui qui colle au métier de ceux qui s'en servent. Je conçois ces outils, et je sais aussi reprendre et moderniser ceux qui existent déjà.
+17 ans dans l'informatique m'ont appris une chose : un bon outil n'est pas celui qui a le plus de fonctions, c'est celui qui colle au métier de ceux qui s'en servent. Je conçois ces outils, et je sais aussi reprendre et moderniser ceux qui existent déjà.
 
 [ojicode.fr](https://ojicode.fr) · contact@ojicode.fr · Île-de-France
 
@@ -10,10 +10,10 @@
 
 ### Ce que je fais
 
-- **Applications métier sur mesure** — remplacer un Excel à bout de souffle, suivre une équipe sur le terrain, automatiser ce qui prend trop de temps.
-- **Sites web** — vitrines et applications web rapides et soignées.
-- **Applications mobiles** — iOS et Android.
-- **Reprise & modernisation** — récupérer un projet laissé en plan, résorber la dette technique, faire évoluer une stack vieillissante.
+- **Applications métier sur mesure** : remplacer un Excel à bout de souffle, suivre une équipe sur le terrain, automatiser ce qui prend trop de temps.
+- **Sites web** : vitrines et applications web rapides et soignées.
+- **Applications mobiles** : iOS et Android.
+- **Reprise & modernisation** : récupérer un projet laissé en plan, résorber la dette technique, faire évoluer une stack vieillissante.
 
 ### Comment je travaille
 
