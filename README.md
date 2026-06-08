@@ -38,8 +38,7 @@ Je suis développeur freelance. Je conçois des applications métier sur mesure 
 
 **TypeScript · React · Next.js · Node.js · Docker**<br/>
 Mobile : **Capacitor**<br/>
-Backend : **Supabase**, **PocketBase**<br/>
-Base de données : **MySQL**, **PostgreSQL**
+Données & backend : **PostgreSQL**, **MySQL**, **Supabase**, **PocketBase**
 
 J'auto-héberge mes produits maison (Docker, Debian, Cloudflare) ; pour vos projets, je m'adapte à votre hébergeur.
 
