@@ -1,44 +1,46 @@
-# Bienvenue sur mon page GitHub 👋
+# Nicodème Cajuste · Ojicode
 
-Je m’appelle **Nicodème**, développeur full stack autodidacte, passionné par la création d’applications et de sites web. Avec 15 ans d'expérience dans l'informatique, notamment dans le support technique, je mets aujourd'hui mon expertise au service du développement web.
+**Développeur freelance, web et mobile.** Je conçois des applications métier sur mesure pour des PME, des TPE et des indépendants. Du premier échange à la maintenance, un seul interlocuteur.
 
-**Polyvalent, curieux et déterminé**, j'ai su rapidement maîtriser des outils comme HTML, CSS, SASS, et JavaScript, tout en explorant des frameworks tels que React. Mon objectif est d’offrir des solutions optimales et adaptées aux besoins de mes clients et de leurs utilisateurs.
+15 ans dans l'informatique m'ont appris une chose : un bon outil n'est pas celui qui a le plus de fonctions, c'est celui qui colle au métier de ceux qui s'en servent. Je conçois ces outils, et je sais aussi reprendre et moderniser ceux qui existent déjà.
 
-Fort de mes compétences en débogage et résolution de problèmes, je suis capable de gérer des projets avec rigueur, tout en restant orienté vers la satisfaction client.
-
-Actuellement, je travaille sur plusieurs projets en tant que freelance , comme la migration d'applications vers React et la mise en place de fonctionnalités avancées.
-
-**Si vous êtes à la recherche d'un collaborateur dynamique et technique, je serais ravi de discuter de votre projet.**
+[ojicode.fr](https://ojicode.fr) · contact@ojicode.fr · Île-de-France
 
 ---
 
-## Présentation 🚀
+### Ce que je fais
 
-Ce portfolio met en avant mes compétences techniques et mes projets réalisés ( à venir) . Vous y trouverez des exemples concrets d’applications et d’interfaces que j’ai développées en utilisant des technologies modernes.
+- **Applications métier sur mesure** — remplacer un Excel à bout de souffle, suivre une équipe sur le terrain, automatiser ce qui prend trop de temps.
+- **Sites web** — vitrines et applications web rapides et soignées.
+- **Applications mobiles** — iOS et Android.
+- **Reprise & modernisation** — récupérer un projet laissé en plan, résorber la dette technique, faire évoluer une stack vieillissante.
+
+### Comment je travaille
+
+- **Forfait fixe.** Un devis détaillé, un périmètre clair. Vous savez ce que vous payez avant de démarrer.
+- **Couverture complète.** Je développe, je déploie, j'héberge et je maintiens. Là où beaucoup s'arrêtent au `git push`, je vais jusqu'à la production et au-delà.
+- **Code qui vous appartient.** Outils standards, documentés. Aucune dépendance qui vous enferme : un autre développeur peut reprendre la main quand il le souhaite.
+
+### Stack
+
+**Front** TypeScript · React · Next.js · Tailwind CSS
+**Back & données** Node.js · PostgreSQL · MySQL · Supabase · PocketBase
+**Mobile** React Native · Capacitor
+**Infra** Docker · auto-hébergement (Debian, Cloudflare) ou votre hébergeur (OVH, Vercel, AWS)
+
+Je gère ma propre infrastructure auto-hébergée, en Europe. Pour vous : des coûts maîtrisés, des données qui restent sur le continent, et personne d'autre à qui demander la permission. Si vous avez déjà un hébergeur, je m'y adapte.
+
+### Réalisations
+
+Mes projets clients et produits sont présentés sur **[ojicode.fr](https://ojicode.fr)** (la plupart sous accord de confidentialité) : du logiciel de gestion terrain offline-first aux portails clients multi-tenants, en passant par des sites avec paiement et espace abonné.
 
 ---
 
-## Technologies 🛠️
+### Me contacter
 
-Voici les outils et langages que j'utilise dans mes projets :
+[![Site](https://img.shields.io/badge/ojicode.fr-C4693D?style=flat-square&logo=safari&logoColor=white)](https://ojicode.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ojicode/)
+[![Instagram](https://img.shields.io/badge/@ojicodehq-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ojicodehq)
+[![Email](https://img.shields.io/badge/contact@ojicode.fr-191816?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@ojicode.fr)
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
-- ![SASS](https://img.icons8.com/color/48/000000/sass.png) **SASS**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript (ES6+)**
-- ![React](https://img.icons8.com/ultraviolet/40/000000/react--v1.png) **React**
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
-
-Je continue à me former sur d'autres outils et frameworks pour élargir encore mes compétences.
-
----
-
-## Contact 📧
-
-Envoyez-moi un e-mail à [📧nicodeme.cajuste@etik.com](mailto:nicodeme.cajuste@etik.com) ou contactez-moi via :  
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/nicodeme-c) 
-
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub](https://github.com/Nicodeme-C)
-
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png) Instagram](https://www.instagram.com/nicodeme_codedev/)
+Un projet en tête ? Le premier échange est sans engagement.
